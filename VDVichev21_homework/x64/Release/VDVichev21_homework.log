@@ -1,0 +1,8 @@
+﻿  VDVichev21_homework.cpp
+C:\Users\Vicho Vichev\OneDrive - ПГКПИ - Бургас\Documents\ПГКПИ\projects\homework\VDVichev21_homework\VDVichev21_homework.cpp(20,18): warning C4101: 'stmt': unreferenced local variable
+  Generating code
+  154 of 160 functions (96.2%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VDVichev21_homework.vcxproj -> C:\Users\Vicho Vichev\OneDrive - ПГКПИ - Бургас\Documents\ПГКПИ\projects\homework\x64\Release\VDVichev21_homework.exe
